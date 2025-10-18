@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XZX",
+    "XQX",
+    "YWY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:glass"
+    },
+        "Y": {
+      "item": "minecraft:stone"
+    },
+        "Z": {
+      "item": "minecraft:iron_ingot"
+    },
+        "Q": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "mixing_cutting:mix_cut_table",
+    "count": 1
+  }
+}

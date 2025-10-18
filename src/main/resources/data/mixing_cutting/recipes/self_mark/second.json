@@ -1,0 +1,17 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+  "category": "mixing_cutting:first", 
+  "recipe_id": "water_bottle",
+  "ingredients": [
+    {"item": "minecraft:glass"}
+  ],
+  "fluid": {
+    "fluid": "minecraft:water",
+    "amount": 250
+  },
+  "result": {
+    "item": "minecraft:potion",
+    "nbt": "{Potion:\"minecraft:water\"}"
+  },
+  "process_time": 0
+}

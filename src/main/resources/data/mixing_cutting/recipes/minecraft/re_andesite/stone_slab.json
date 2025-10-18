@@ -1,0 +1,13 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "polished_andesite_log_4",
+  "ingredients": [
+    {"item": "minecraft:polished_andesite"}
+  ],
+  "result": {
+    "item": "polished_andesite_slab",
+    "count": 2
+  },
+  "process_time": 0
+}

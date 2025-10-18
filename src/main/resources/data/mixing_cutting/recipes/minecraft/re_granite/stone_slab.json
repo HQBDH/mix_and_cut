@@ -1,0 +1,13 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "granite_log_4",
+  "ingredients": [
+    {"item": "minecraft:granite"}
+  ],
+  "result": {
+    "item": "minecraft:granite_slab",
+    "count": 2
+  },
+  "process_time": 0
+}

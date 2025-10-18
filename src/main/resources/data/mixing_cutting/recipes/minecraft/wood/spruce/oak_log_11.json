@@ -1,0 +1,16 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "spruce_log_11",
+  "ingredients": [
+    { "item": "minecraft:spruce_planks",
+     "count": 3
+  }
+  
+  ],
+  "result": {
+    "item": "minecraft:spruce_trapdoor",
+    "count": 1
+  },
+  "process_time": 0
+}

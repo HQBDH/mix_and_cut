@@ -1,0 +1,13 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "cobblestone_log_2",
+  "ingredients": [
+    {"item": "minecraft:cobblestone"}
+  ],
+  "result": {
+    "item": "minecraft:cobblestone_button",
+    "count": 1
+  },
+  "process_time": 0
+}

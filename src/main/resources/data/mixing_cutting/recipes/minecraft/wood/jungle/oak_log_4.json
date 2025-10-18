@@ -1,0 +1,15 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "jungle_log_4",
+  "ingredients": [
+    { "item": "minecraft:jungle_planks",
+     "count": 2
+  }
+  ],
+  "result": {
+    "item": "minecraft:jungle_fence",
+    "count": 3
+  },
+  "process_time": 0
+}

@@ -1,0 +1,15 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "black_stone_11",
+  "ingredients": [
+    {"item": "minecraft:blackstone",
+     "count": 1
+  }
+  ],
+  "result": {
+    "item": "minecraft:polished_blackstone_wall",
+    "count": 1
+  },
+  "process_time": 0
+}

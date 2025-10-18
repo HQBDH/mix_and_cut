@@ -1,0 +1,18 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "stone_log_6",
+  "ingredients": [
+    {"item": "minecraft:stone"}
+  ],
+  
+  "fluid": {
+    "fluid": "minecraft:lava",
+    "amount": 3
+  },
+  "result": {
+    "item": "minecraft:smooth_stone",
+    "count": 1
+  },
+  "process_time": 0
+}

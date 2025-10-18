@@ -1,0 +1,13 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "stone_log_3",
+  "ingredients": [
+    {"item": "minecraft:stone"}
+  ],
+  "result": {
+    "item": "minecraft:stone_pressure_plate",
+    "count": 1
+  },
+  "process_time": 0
+}

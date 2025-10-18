@@ -1,0 +1,17 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "jungle_log_6",
+  "ingredients": [
+    { "item": "minecraft:jungle_log",
+     "count": 1
+  },{ "item": "minecraft:iron_nugget",
+     "count": 6
+  }
+  ],
+  "result": {
+    "item": "minecraft:jungle_hanging_sign",
+    "count": 1
+  },
+  "process_time": 0
+}

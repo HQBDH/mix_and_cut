@@ -1,0 +1,16 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+    "category": "mixing_cutting:first", 
+  "recipe_id": "wall_pepers_2",
+  "ingredients": [
+    {"item": "elegant_countryside:hhuahuaxunzhang"
+  },
+     {"tag": "minecraft:planks"
+  }
+  ],
+  "result": {
+    "item": "elegant_architecture.zongtaimianda_2"
+   
+  },
+  "process_time": 0
+}

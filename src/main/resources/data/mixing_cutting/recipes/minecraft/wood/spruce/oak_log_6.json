@@ -1,0 +1,17 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "spruce_log_6",
+  "ingredients": [
+    { "item": "minecraft:spruce_log",
+     "count": 1
+  },{ "item": "minecraft:iron_nugget",
+     "count": 6
+  }
+  ],
+  "result": {
+    "item": "minecraft:spruce_hanging_sign",
+    "count": 1
+  },
+  "process_time": 0
+}

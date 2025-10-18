@@ -1,0 +1,13 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "oak_log_2",
+  "ingredients": [
+    { "tag": "minecraft:planks"}
+  ],
+  "result": {
+    "item": "minecraft:stick",
+    "count": 3
+  },
+  "process_time": 0
+}

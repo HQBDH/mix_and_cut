@@ -1,0 +1,18 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "cobblestone_log_6",
+  "ingredients": [
+    {"item": "minecraft:cobblestone"}
+  ],
+  
+  "fluid": {
+    "fluid": "minecraft:lava",
+    "amount": 3
+  },
+  "result": {
+    "item": "minecraft:stone",
+    "count": 1
+  },
+  "process_time": 0
+}

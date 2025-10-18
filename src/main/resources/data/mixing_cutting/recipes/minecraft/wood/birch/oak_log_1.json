@@ -1,0 +1,13 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "birch_log_1",
+  "ingredients": [
+    {"item": "minecraft:birch_log"}
+  ],
+  "result": {
+    "item": "minecraft:birch_planks",
+    "count": 5
+  },
+  "process_time": 0
+}

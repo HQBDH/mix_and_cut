@@ -1,0 +1,13 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "stone_log_5",
+  "ingredients": [
+    {"item": "minecraft:stone"}
+  ],
+  "result": {
+    "item": "minecraft:stone_stairs",
+    "count": 1
+  },
+  "process_time": 0
+}

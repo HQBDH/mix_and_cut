@@ -1,0 +1,20 @@
+{
+ 
+  "creativetab.mixing_cutting_tab": "混切",
+  "block.mixing_cutting.mix_cut_table": "混合切制机",
+  "item.mixing_cutting.mix_cut_table": "混合切制机",
+   "container.mixing_cutting.mix_cut_table": "混合切石制作",
+   
+  "tooltip.mixing_cutting.fluid_tank.info": "%s:%d/%d mB",
+  "tooltip.mixing_cutting.fluid_tank.empty": "无流体",
+  "fluid.minecraft.water": "水",
+  "fluid.minecraft.flowing_water": "水",
+  "fluid.minecraft.lava": "熔岩",
+  "fluid.minecraft.flowing_lava": "熔岩",
+  "fluid.thermal.creosote": "杂酚油",
+  "fluid.thermal.refined_fuel": "精炼燃料",
+  "fluid.immersiveengineering.biodiesel": "生物柴油",
+  "fluid.create.honey": "蜂蜜",
+  "fluid.create.milk": "牛奶",
+  "fluid.forestry.biomass": "生物质"
+}

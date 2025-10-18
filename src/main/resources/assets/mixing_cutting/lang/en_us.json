@@ -1,0 +1,20 @@
+{
+ 
+  "container.mixing_cutting.mix_cut_table": "Mixing And Cutting!",
+  "creativetab.mixing_cutting_tab": "Mixing And Cutting",
+  
+  "item.mixing_cutting.mix_cut_table": "Mix-Cut Table",
+  "block.mixing_cutting.mix_cut_table": "Mix-Cut Table",
+  "tooltip.mixing_cutting.fluid_tank.info": "%s: %d/%d mB",
+  "tooltip.mixing_cutting.fluid_tank.empty": "No Fluid",
+  "fluid.minecraft.water": "Water",
+  "fluid.minecraft.flowing_water": "Water",
+  "fluid.minecraft.lava": "Lava",
+  "fluid.minecraft.flowing_lava": "Lava",
+  "fluid.thermal.creosote": "Creosote Oil",
+  "fluid.thermal.refined_fuel": "Refined Fuel",
+  "fluid.immersiveengineering.biodiesel": "Biodiesel",
+  "fluid.create.honey": "Honey",
+  "fluid.create.milk": "Milk",
+  "fluid.forestry.biomass": "Biomass"
+}

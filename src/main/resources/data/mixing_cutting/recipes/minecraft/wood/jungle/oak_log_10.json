@@ -1,0 +1,16 @@
+{
+  "type": "mixing_cutting:mix_cutting",
+   "category": "mixing_cutting:first",
+  "recipe_id": "jungle_log_10",
+  "ingredients": [
+    { "item": "minecraft:jungle_planks",
+     "count": 1
+  }
+  
+  ],
+  "result": {
+    "item": "minecraft:jungle_button",
+    "count": 1
+  },
+  "process_time": 0
+}
